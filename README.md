@@ -2,7 +2,7 @@
 
 Members:
 - José Manuel García Lopez.
-- Juan Miguel Rojas
+- Juan Miguel Rojas Mejía.
 
 For the project we used the trailer of the penguin. The steps we used were as follows:
 1. creation of the dialogue (it was made of kitchen by a scene where a jar with red stuff is shown).
